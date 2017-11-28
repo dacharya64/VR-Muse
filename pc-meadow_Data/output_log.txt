@@ -19,18 +19,18 @@ Platform assembly: C:\Github\VR-Muse\pc-meadow_Data\Managed\UnityEngine.Networki
 Loading C:\Github\VR-Muse\pc-meadow_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Github\VR-Muse\pc-meadow_Data\Managed\Google.ProtocolBuffers.dll (this message is harmless)
 Loading C:\Github\VR-Muse\pc-meadow_Data\Managed\Google.ProtocolBuffers.dll into Unity Child Domain
-- Completed reload, in  0.236 seconds
+- Completed reload, in  0.319 seconds
 Platform assembly: C:\Github\VR-Muse\pc-meadow_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Github\VR-Muse\pc-meadow_Data\Managed\System.dll (this message is harmless)
 desktop: 2160x1440 59Hz; virtual: 2160x1440 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 6.760088 ms
+UnloadTime: 3.312712 ms
 No controller support on this platform.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 23a8 -> priority: 1 
-  Thread -> id: 4e0 -> priority: 1 
+  Thread -> id: 2e90 -> priority: 1 
+  Thread -> id: 1940 -> priority: 1 
