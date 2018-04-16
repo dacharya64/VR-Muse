@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.IO;
 
-public class GameControllerScript : MonoBehaviour {
+public class GameControllerScript_relaxing : MonoBehaviour {
     public ArrayList chosenValues = new ArrayList();
 
     public Button button0;
@@ -42,7 +42,7 @@ void OnEnable() {
     void WriteToFile(int i) {
         string path = "Assets/data/UserX.txt";
         StreamWriter writer = new StreamWriter(path, true);
-        writer.WriteLine(System.DateTime.UtcNow + ", HighActivity, " + i);
+        writer.WriteLine(System.DateTime.UtcNow + ", Relaxing, " + i);
         writer.Close();
     }
 	// Update is called once per frame
